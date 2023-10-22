@@ -1,0 +1,13 @@
+h1 {
+    font: sans-serif;
+    font-size: medium;
+    color: rebeccapurple;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+h2 {
+    font: sans-serif;
+    font-size: large;
+    color: rebeccapurple;
+}
